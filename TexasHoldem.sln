@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TexasHoldemUI", "TexasHoldemUI\TexasHoldemUI.csproj", "{24615C1F-7103-4583-88FC-7147972BF5AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TexasHoldem.Library", "TexasHoldem.Library\TexasHoldem.Library.csproj", "{39A8F0C2-AADA-4882-9BC1-B9CB3B26DD0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24615C1F-7103-4583-88FC-7147972BF5AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24615C1F-7103-4583-88FC-7147972BF5AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24615C1F-7103-4583-88FC-7147972BF5AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24615C1F-7103-4583-88FC-7147972BF5AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39A8F0C2-AADA-4882-9BC1-B9CB3B26DD0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A8F0C2-AADA-4882-9BC1-B9CB3B26DD0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39A8F0C2-AADA-4882-9BC1-B9CB3B26DD0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39A8F0C2-AADA-4882-9BC1-B9CB3B26DD0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AABF5AD-9367-482A-B12B-44E62E18EC40}
+	EndGlobalSection
+EndGlobal
